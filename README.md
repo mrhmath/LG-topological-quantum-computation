@@ -6,7 +6,7 @@ This repository provides the official Python implementation of the paper \
 
 ## Repository Description
 
-We provide scripts for computing the matrix units of the braiding $$\sigma_1$$ and the right Jucys-Murphy element $$\sigma_1^2$$ on the right-associated morphism space $$Hom_{U_q}(\bm{V}, \bm{W}^{\otimes 2}\otimes \bm{V})$$ where $$\bm{V}$$ and $$\bm{W}$$ are the Kac modules $$V(0,\alpha)$$ and $$V(0,-\frac{1}{2})$$, respectively.
+We provide scripts for computing the matrix units of the braiding $$\sigma_1$$ and the right Jucys-Murphy element $$\sigma_1^2$$ on the right-associated morphism space $$\mathrm{Hom}_{U_q}(\mathbf{V}, \mathbf{W}^{\otimes 2}\otimes \mathbf{V})$$ where $$\mathbf{V}$$ and $$\mathbf{W}$$ are the Kac modules $$V(0,\alpha)$$ and $$V(0,-\frac{1}{2})$$, respectively.
    
 ## Scripts
 
